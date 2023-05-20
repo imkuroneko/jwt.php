@@ -1,7 +1,6 @@
 <?php
 
 try {
-
     # Cargar la mini librería
     require_once('./jwt.class.php');
 
